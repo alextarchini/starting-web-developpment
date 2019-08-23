@@ -1,0 +1,15 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.section {
+    border: 2px solid gray; 
+    background: white;
+    margin:20px;
+}
+.left {
+    float: left;
+}
+.right {
+    float: right;
+}
+
